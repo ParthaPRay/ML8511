@@ -8,4 +8,24 @@ From the above plot we can estimate the relationship between UV intensity (mW/cm
 
 We try to estimate m i.e. sole of the straight line from the above plot.
 
-(y<sub>2</sub> - (y<sub>1</sub>) = m ((x<sub>2</sub> - (x<sub>1</sub>)       equation (1)
+(y<sub>2</sub> - y<sub>1</sub>) = m (x<sub>2</sub> - x<sub>1</sub>)       equation (1)
+
+Where:
+x<sub>1</sub> = 0, y<sub>1</sub> = 1.0
+
+x<sub>2</sub> = 10, y<sub>2</sub> = 2.2
+
+Thus, 
+
+m = (y<sub>2</sub> - y<sub>1</sub>)/(x<sub>2</sub>-x<sub>1</sub>)
+
+m = (2.2 - 1.0)/(10 - 0)
+
+m = 0.12
+
+
+So, the final formula can be written as below:
+
+O/P Voltage = 0.12 * (UV Intensity - 1)
+
+
