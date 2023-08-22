@@ -1,6 +1,8 @@
 # ML8511
 This repo contains the slope line estimation for GY-ML8511 UV sensor for Arduino Uno
 
+# Mathematical Relationship
+
 Followng is the OUTPUT VALTAGE– UV INTENSITY CHARCTERISTICS from the LAPIS datasheet (https://cdn.sparkfun.com/datasheets/Sensors/LightImaging/ML8511_3-8-13.pdf)
 ![Screenshot from 2023-08-22 11-57-25](https://github.com/ParthaPRay/ML8511/assets/1689639/908cc1df-b504-478a-ad76-4a805d0a2857)
 
@@ -26,6 +28,12 @@ m = 0.12
 
 So, the final formula can be written as below:
 
-O/P Voltage = (0.12 * UV Intensity) + 1
+O/P Voltage = (0.12 * UV Intensity) + 1             equation (2)
+
+
+# Circuit
+
+To Be Continued....
+
 
 
