@@ -26,6 +26,6 @@ m = 0.12
 
 So, the final formula can be written as below:
 
-O/P Voltage = 0.12 * (UV Intensity - 1)
+O/P Voltage = (0.12 * UV Intensity) + 1
 
 
